@@ -1,0 +1,89 @@
+{
+  "initialState": {
+    "translate": "0.0f, 0.0f, 0.0f",
+    "rotate": {
+      "indegree": "90.0f",
+      "orientation": "0.0f, 0.0f, 1.0f"
+    },
+    "scale": "0.1f, 0.1f, 0.1f"
+  },
+
+  "keyPoint": [
+
+    {
+      "name": "keyPoint1",
+      "time": "0",
+      "position": "-15.0f, 0.0f, 0.0f",
+      "orientations_1": {
+        "indegree": "0.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "name": "keyPoint2",
+      "time": "1",
+      "position": "-5.0f, 0.0f, 0.0f",
+      "orientations_1": {
+        "indegree": "0.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "name": "keyPoint3",
+      "time": "2",
+      "position": "5.0f, 0.0f, 0.0f",
+      "orientations_1": {
+        "indegree": "0.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      },
+      "orientations_2": {
+        "indegree": "90.0f",
+        "orientation": "1.0f, 0.0f, 0.0f"
+      }
+    },
+
+    {
+      "name": "keyPoint4",
+      "time": "3",
+      "position": "15.0f, 0.0f, 0.0f",
+      "orientations_1": {
+        "indegree": "0.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      },
+      "orientations_2": {
+        "indegree": "180.0f",
+        "orientation": "1.0f, 0.0f, 0.0f"
+      }
+    },
+
+    {
+      "name": "keyPoint5",
+      "time": "4",
+      "position": "25.0f, 0.0f, 0.0f",
+      "orientations_1": {
+        "indegree": "0.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      },
+      "orientations_2": {
+        "indegree": "270.0f",
+        "orientation": "1.0f, 0.0f, 0.0f"
+      }
+    },
+
+    {
+      "name": "keyPoint6",
+      "time": "5",
+      "position": "35.0f, 0.0f, 0.0f",
+      "orientations_1": {
+        "indegree": "0.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      },
+      "orientations_2": {
+        "indegree": "360.0f",
+        "orientation": "1.0f, 0.0f, 0.0f"
+      }
+    }
+  ]
+}

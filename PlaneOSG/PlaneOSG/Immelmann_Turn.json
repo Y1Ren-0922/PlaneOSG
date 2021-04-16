@@ -1,0 +1,406 @@
+{
+  "initialState": {
+    "rotate": {
+      "indegree": "90.0f",
+      "orientation": "0.0f, 0.0f, 1.0f"
+    },
+    "scale": "0.1f, 0.1f, 0.1f"
+  },
+
+  "keyPoint": [
+    {
+      "time": "0",
+      "position": "-5.0f, 0.0f, 0.0f",
+      "orientations_1": {
+        "indegree": "-0.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1",
+      "position": "0,0,0",
+      "orientations_1": {
+        "indegree": "-0.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1.1",
+      "position": "0.402333, 0, 0.0162134",
+      "orientations_1": {
+        "indegree": "-osg::PI / 39.0",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1.2",
+      "position": "0.802056, 0, 0.0647488",
+      "orientations_1": {
+        "indegree": "-9.23077",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1.3",
+      "position": "1.19658, 0, 0.145291",
+      "orientations_1": {
+        "indegree": "-13.8462",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1.4",
+      "position": "1.58334, 0, 0.257318",
+      "orientations_1": {
+        "indegree": "-18.4615",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1.5",
+      "position": "1.95983, 0, 0.400103",
+      "orientations_1": {
+        "indegree": "-23.0769",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1.6",
+      "position": "2.32362, 0, 0.57272",
+      "orientations_1": {
+        "indegree": "-27.6923",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1.7",
+      "position": "2.67233, 0, 0.774049",
+      "orientations_1": {
+        "indegree": "-32.3077",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1.8",
+      "position": "3.00371, 0, 1.00279",
+      "orientations_1": {
+        "indegree": "-36.9231",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "1.9",
+      "position": "3.31561, 0, 1.25745",
+      "orientations_1": {
+        "indegree": "-41.5385",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2",
+      "position": "3.60601, 0, 1.53638",
+      "orientations_1": {
+        "indegree": "-46.1538",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2.1",
+      "position": "3.87302, 0, 1.83777",
+      "orientations_1": {
+        "indegree": "-50.7692",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2.2",
+      "position": "4.11492, 0, 2.15968",
+      "orientations_1": {
+        "indegree": "-55.3846",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2.3",
+      "position": "4.33013, 0, 2.5",
+      "orientations_1": {
+        "indegree": "-60",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2.4",
+      "position": "4.51725, 0, 2.85654",
+      "orientations_1": {
+        "indegree": "-64.6154",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2.5",
+      "position": "4.67508, 0, 3.22698",
+      "orientations_1": {
+        "indegree": "-69.2308",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2.6",
+      "position": "4.80259, 0, 3.60891",
+      "orientations_1": {
+        "indegree": "-73.8462",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2.7",
+      "position": "4.89895, 0, 3.99987",
+      "orientations_1": {
+        "indegree": "-78.4615",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2.8",
+      "position": "4.96354, 0, 4.39732",
+      "orientations_1": {
+        "indegree": "-83.0769",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "2.9",
+      "position": "4.99594, 0, 4.79867",
+      "orientations_1": {
+        "indegree": "-87.6923",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3",
+      "position": "4.99594, 0, 5.20133",
+      "orientations_1": {
+        "indegree": "-92.3077",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3.1",
+      "position": "4.96354, 0, 5.60268",
+      "orientations_1": {
+        "indegree": "-96.9231",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3.2",
+      "position": "4.89895, 0, 6.00013",
+      "orientations_1": {
+        "indegree": "-101.538",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3.3",
+      "position": "4.80259, 0, 6.39109",
+      "orientations_1": {
+        "indegree": "-106.154",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3.4",
+      "position": "4.67508, 0, 6.77302",
+      "orientations_1": {
+        "indegree": "-110.769",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3.5",
+      "position": "4.51725, 0, 7.14346",
+      "orientations_1": {
+        "indegree": "-115.385f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3.6",
+      "position": "4.33013, 0, 7.5",
+      "orientations_1": {
+        "indegree": "-120.0",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3.7",
+      "position": "4.11492, 0, 7.84032",
+      "orientations_1": {
+        "indegree": "-124.615f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3.8",
+      "position": "3.87302, 0, 8.16223",
+      "orientations_1": {
+        "indegree": "-129.231",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "3.9",
+      "position": "3.60601, 0, 8.46362",
+      "orientations_1": {
+        "indegree": "-133.846",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4",
+      "position": "3.31561, 0, 8.74256",
+      "orientations_1": {
+        "indegree": "-138.462",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4.1",
+      "position": "3.00371, 0, 8.99722",
+      "orientations_1": {
+        "indegree": "-143.077",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4.2",
+      "position": "2.67233, 0, 9.22595",
+      "orientations_1": {
+        "indegree": "-147.692",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4.3",
+      "position": "2.32361, 0, 9.42728",
+      "orientations_1": {
+        "indegree": "-152.308",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4.4",
+      "position": "1.95983, 0, 9.5999",
+      "orientations_1": {
+        "indegree": "-156.923",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4.5",
+      "position": "1.58333, 0, 9.74268",
+      "orientations_1": {
+        "indegree": "-161.538",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4.6",
+      "position": "1.19657, 0, 9.85471",
+      "orientations_1": {
+        "indegree": "-166.154",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4.7",
+      "position": "0.80205, 0, 9.93525",
+      "orientations_1": {
+        "indegree": "-170.769",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4.8",
+      "position": "0.402326, 0, 9.98379",
+      "orientations_1": {
+        "indegree": "-175.385",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "4.9",
+      "position": "-7.58967e-06, 0, 10",
+      "orientations_1": {
+        "indegree": "-180.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "6",
+      "position": "-5.0f, 0.0f, 10.0f",
+      "orientations_1": {
+        "indegree": "-180.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      },
+      "orientations_2": {
+        "indegree": "-180.0f",
+        "orientation": "1.0f, 0.0f, 0.0f"
+      }
+    },
+
+    {
+      "time": "6.5",
+      "position": "-8.0f, 0.0f, 10.0f",
+      "orientations_1": {
+        "indegree": "-180.0f",
+        "orientation": "0.0f, 1.0f, 0.0f"
+      },
+      "orientations_2": {
+        "indegree": "-180.0f",
+        "orientation": "1.0f, 0.0f, 0.0f"
+      }
+    }
+  ]
+}
